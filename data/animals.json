@@ -1,0 +1,68 @@
+[
+    {
+        "id": "10000001",
+        "type": "Phoenix",
+        "latestCheck": "01/02/2025",
+        "vaccineCount": 3,
+        "fireProofCertificate": true
+    },
+    {
+        "id": "10000002",
+        "type": "Phoenix",
+        "latestCheck": "11/01/2025",
+        "vaccineCount": 5,
+        "fireProofCertificate": true
+    },
+    {
+        "id": "10000003",
+        "type": "Phoenix",
+        "latestCheck": "11/01/2025",
+        "vaccineCount": 2,
+        "fireProofCertificate": false
+    },
+
+    {
+        "id": "20000001",
+        "type": "Dragon",
+        "latestCheck": "15/01/2025",
+        "vaccineCount": 2,
+        "smokePoisonLevel": 65
+    },
+    {
+        "id": "20000002",
+        "type": "Dragon",
+        "latestCheck": "15/12/2024",
+        "vaccineCount": 2,
+        "smokePoisonLevel": 60
+    },
+    {
+        "id": "20000003",
+        "type": "Dragon",
+        "latestCheck": "05/02/2025",
+        "vaccineCount": 1,
+        "smokePoisonLevel": 80
+    },
+    {
+        "id": "30000001",
+        "type": "Owl",
+        "latestCheck": "20/01/2025",
+        "vaccineCount": 4,
+        "flightDistanceNoMeal": 85
+    },
+    {
+        "id": "30000002",
+        "type": "Owl",
+        "latestCheck": "18/01/2025",
+        "vaccineCount": 4,
+        "flightDistanceNoMeal": 120
+      },
+    {
+        "id": "30000001",
+        "type": "Owl",
+        "latestCheck": "02/02/2025",
+        "vaccineCount": 6,
+        "flightDistanceNoMeal": 150
+    }
+  
+]
+  
