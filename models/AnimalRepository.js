@@ -76,7 +76,7 @@ class AnimalRepository {
     }
   }
 
-  // บันทึกไฟล์ (กรณีมีการแก้ไข/เพิ่ม)
+  // บันทึกไฟล์ 
   saveData() {
     const dataArr = this.animals.map((a) => {
   
